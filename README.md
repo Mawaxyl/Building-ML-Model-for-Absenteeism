@@ -13,4 +13,4 @@ The steps and csv used are:
 - **Absenteeism Deploying the Absenteeism Module (the ipynb file)**
 5. The `absenteesim_model.py` was loaded and used to create a csv file called `Absenteeism_predictions.csv`
 - Tableau
-6. The  `Absenteeism_predictions.csv` was analysed on Tableau (the link is: )
+6. The  `Absenteeism_predictions.csv` was analysed on Tableau (the link is: ) i.e. to explore the inputs that seem to be most important according to our model.
